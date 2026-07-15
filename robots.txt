@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://engineer279.github.io/smeta-stroy-kg/sitemap.xml
